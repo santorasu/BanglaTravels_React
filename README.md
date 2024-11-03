@@ -4,11 +4,21 @@
 - 213-15-4304
 # Section:60_A
 
+
+#Instalation Process
+Create React: npm create vite
+Project Name: vite-project
+Selected “React” && “JavaScript”
+Module Download: npm install
+Run Project: npm run dev or npx vite
+Build Project: npm run build or npx vite build.
+
+
 # BanglaTravels
 
 Live page link: https://santorasu.github.io/BanglaTravels/
 
-BanglaTravels is a tourist website designed to showcase the beauty and attractions of Bangladesh. It provides information on popular travel destinations, rich cultural experiences, and breathtaking natural wonders. The website is designed with a clean, modern user interface, responsive design, and interactive features for an engaging user experience.
+BanglaTravels is a tourist website designed to showcase the beauty and attractions of Bangladesh. It provides information on popular travel destinations, rich cultural experiences, and breathtaking natural wonders. The website is built with React and features a clean, modern user interface, responsive design, and interactive features for an engaging user experience.
 
 ## Features
 
@@ -22,7 +32,9 @@ BanglaTravels is a tourist website designed to showcase the beauty and attractio
 
 ## Technologies Used
 
-- **HTML5**: For the structure and content of the web pages.
-- **CSS3**: For styling and responsive design, including animations and media queries.
+- **React**: Core framework for building the user interface and managing component state
+- **Vite**: Next-generation frontend tooling for faster development and optimized builds
+- **React Router**: For handling client-side routing between different views
+- **CSS Modules**: For component-scoped styling and better CSS organization
 - **JavaScript**: Enhances user interactivity, such as smooth scrolling and image slider functionality.
 - **Google Fonts**: For modern and clean typography.
