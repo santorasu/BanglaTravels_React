@@ -6,12 +6,12 @@
 
 
 #Instalation Process
-Create React: npm create vite
-Project Name: vite-project
-Selected “React” && “JavaScript”
-Module Download: npm install
-Run Project: npm run dev or npx vite
-Build Project: npm run build or npx vite build.
+- Create React: npm create vite
+- Project Name: vite-project
+- Selected “React” && “JavaScript”
+- Module Download: npm install
+- Run Project: npm run dev or npx vite
+- Build Project: npm run build or npx vite build.
 
 
 # BanglaTravels
